@@ -2,7 +2,7 @@
 
 ## Members
 - Nguyễn Tiến Dũng - PM Intern
-- [Tên bạn đồng hành 1] - PM Intern
+- Ngô Hải Văn - PM Intern
 - [Tên bạn đồng hành 2] - PM Intern
 
 ---
