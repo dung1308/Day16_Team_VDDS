@@ -1,9 +1,9 @@
 # Day 16 Submission — Team [Tên Team của bạn]
 
 ## Members
-- [Tên bạn] + UX Designer & Prompt Engineer
-- [Tên bạn đồng hành 1] + AI Engineer
-- [Tên bạn đồng hành 2] + Product Manager
+- Nguyễn Tiến Dũng - PM Intern
+- [Tên bạn đồng hành 1] - PM Intern
+- [Tên bạn đồng hành 2] - PM Intern
 
 ---
 
